@@ -1,3 +1,6 @@
+# DVP_PA3
+Programming assignment 3, Digital Video Processing, EE, KAIST, Fall 2018
+
 1. Structure of directories
 
 PA#3_DinhVu
