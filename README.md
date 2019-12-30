@@ -67,7 +67,7 @@ PA#3_DinhVu
 			+ My best model is stored in 'FlowNetPytorch_2/flying_chairs/11-21-15h23' folder
 
 		3.4.2. Evaluation
-			- Open Command Promt (Windows) or Terminal (Linux) in 'FlowNetTorch_2' folder
+			- Open Command Promt (Windows) or Terminal (Linux) in 'FlowNetTorch_2' folder.
 			- Type: python run_inference.py ../data ./flying_chairs/11-21-15h23/flownets,adam,100epochs,epochSize1000,b8,lr0.0001/model_best.pth.tar --output=../data/new_flownets
 			- Wait the process finish
 			
